@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mudiiiiii
-- 👀 I’m interested in the developing of apps and websites
-- 🌱 I’m currently learning software engineering in centennial college
+- 👀 I’m interested in the development of apps and websites
+- 🌱 I’m currently learning software engineering at Centennial College
 - 📫 How to reach me: otomudiaga@gmail.com
 
 <!---
