@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mudiiiiii
-- 👀 I'm Proficient in multiple programming languages including Python, Java, C#, and React, with experience in designing components and features for planning and predictive analysis, developing mobile and web applications, and creating machine learning models.
+- 👀 I'm proficient in multiple programming languages including Python, Java, C#, and React, with experience in designing components and features for planning and predictive analysis, developing mobile and web applications, and creating machine learning models.
 - 🙂 Ability to create and manage databases on the cloud and locally.
 - ⭐ Server-side and client-side development of web and mobile applications.
 - ✔️ Possess a deep understanding of popular software tools like Git, Jira, and Docker
